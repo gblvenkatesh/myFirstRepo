@@ -1,0 +1,6 @@
+Created by srikanth-sarma on 19-11-2021.
+
+Suggestions:
+  1. About page. 
+  2. Contact page.
+  3. Signup/Login page.
